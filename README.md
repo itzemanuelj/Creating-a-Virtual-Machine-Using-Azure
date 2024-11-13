@@ -1,5 +1,3 @@
-Creating a Virtual Machine Using Azure (ELI5)
-
 ![Azure Logo](images/azure-logo.png)
 
 # Creating a Virtual Machine Using Azure (ELI5)
