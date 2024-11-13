@@ -1,4 +1,4 @@
-![Azure Logo](images/azure-logo.png)
+![Azure Logo](https://i.imgur.com/3iwtTkN.jpeg)
 
 # Creating a Virtual Machine Using Azure (ELI5)
 
