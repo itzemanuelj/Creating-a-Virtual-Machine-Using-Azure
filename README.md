@@ -116,7 +116,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 
 ---
 
->! For more details, visit the [Azure](add).
+> For more details, visit the [Azure](add).
 
 ## FAQ
 **Q.What are Azure Virtual Machines (VMs)?** <br>
