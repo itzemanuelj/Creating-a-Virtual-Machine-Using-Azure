@@ -104,7 +104,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 2. Select the virtual machine we created and copy the public IP Address on the right side of the Virtual Machine of the screen.
 3. Open up Remote Desktop Connection or type **MSTSC** in our search bar . 
 4. In Remote Desktop Connection we can then now paste in  our IP Address.
-5. Enter username and connect. &nbsp;
+5. Enter username and click connect. &nbsp;
 
 ![VM](https://i.imgur.com/3dlD3Ea.png)
 ![VM](https://i.imgur.com/FUMEMaf.png)
