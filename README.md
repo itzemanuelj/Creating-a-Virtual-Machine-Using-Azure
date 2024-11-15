@@ -1,4 +1,4 @@
-<p align="center">
+8<p align="center">
 <img src="https://i.imgur.com/3iwtTkN.jpeg height="40%" width="60%" alt="Microsoft Azure Logo"/>
 </p>
 
@@ -66,7 +66,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 3. We need to select the same **Resource Group and Region** and click **Create Storage Account**.
 4. In this tutorial we will name the Storage Account **storageaccount1** and select **(US)East US** for the region.
 5. At the middle of the screen we will select **Review + Create** and click **Create**.
-6. Our Storage Account is now successuccessfully fully created . 
+6. Our Storage Account is now successuccessfully created . 
 &nbsp;
 
 ![Azure RG](https://i.imgur.com/Eeygknm.png)
