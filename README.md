@@ -109,7 +109,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 
 ### Step 6: Connect to the Virtual Machine
 1. Enter username and password that we created prior to creating our VM.
-2. 🎉Congratulations! You have created your first virtual machine within Azure!🎉
+2. Congratulations! You have created your first virtual machine within Azure!
 
 ![VM](https://i.imgur.com/mVm8WEE.png)
 ![VM](https://i.imgur.com/wEaETOZ.png)
@@ -126,5 +126,5 @@ A: Azure VMs are scalable, on-demand virtual machines that allow users to deploy
 A: Azure is Microsoft's cloud computing platform that provides a range of services such as virtual machines, databases, and storage. It supports building, deploying, and managing applications through Microsoft-managed data centers. 
 -- -
 ## Conclusion
-You’ve successfully created a Vitrual  Machine in Azure.
+🎉You’ve successfully created a Vitrual  Machine in Azure.🎉
 
