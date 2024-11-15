@@ -1,4 +1,4 @@
-8<p align="center">
+<p align="center">
 <img src="https://i.imgur.com/3iwtTkN.jpeg height="40%" width="60%" alt="Microsoft Azure Logo"/>
 </p>
 
