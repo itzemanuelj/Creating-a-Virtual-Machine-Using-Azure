@@ -31,8 +31,11 @@ This tutorial outlines the prerequisites and installation steps for Creating a V
 
 
 Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount).
+<br>
     -  Follow the prompt to create the account 
+    <br>
     -  You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then.
+    <br>
     -  Finish the prompt, click Go to Azure Portal, and you are ready to start with Azure!
 
 ### Additionally If You Already Have An Account Go To [portal.azure.com](https://www.portal.azure.com) To Start
