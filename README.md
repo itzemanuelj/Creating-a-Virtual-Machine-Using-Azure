@@ -79,8 +79,8 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 ### Step 4: Create a Virtual Machine
 1. Go to the Azure portal search bar at the middle top of the screen and search **Virtual Machine**.
 2. Click Create Azure Virtual Machine at the middle bottom of the screen of the page.
-3. We will need to select the same **Resource Group**, **Region**, and create a name for the virtual machine
-4. In this tutorial, we will name the virtual Machine **"Windows10ProVM"**
+3. We will need to select the same **Resource Group**, **Region**, and create a name for the virtual machine.
+4. In this tutorial, we will name the virtual Machine **"Windows10ProVM"**.
 5. We now need to select an Image for our virtual machine.
 6. In this tutorial, we will be using a **Windows 10Pro VM image**.
 6. Next scroll down to size , we need to select which VM size. 
