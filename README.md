@@ -8,7 +8,7 @@
 
 ## Prerequisites and Installation
 
-This tutorial outlines the prerequisites and installation steps for Creating a Virtual Machine Using Azure
+This tutorial outlines the prerequisites and installation steps for Creating a Virtual Machine Using Azure.
 
 ## Environments and Technologies Used
  **Azure Portal**
@@ -31,11 +31,8 @@ This tutorial outlines the prerequisites and installation steps for Creating a V
 
 
 Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account?icid=azurefreeaccount).
-<br>
     -  Follow the prompt to create the account 
-    <br>
     -  You will need to put in your credit card information, but you will get $200 worth of Azure credit and will have 30 days to use those credits. You will not be charged until then.
-    <br>
     -  Finish the prompt, click Go to Azure Portal, and you are ready to start with Azure!
 
 ### Additionally If You Already Have An Account Go To [portal.azure.com](https://www.portal.azure.com) To Start
@@ -53,7 +50,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 3. In the Resource Group tab click **Create**.
 3. We then need to name the resource group and select the region.
 4. In this tutorial we will name the resource group **resourcegroup1** and select **(US) East US** for the region.
-5. On the bottom left of the screen click **Review + Create**
+5. On the bottom left of the screen click **Review + Create**.
 6. Once verification is complete we have successfully  created a Resource Group . We can then click **Create** at the bottom right of the screen. 
 &nbsp;
 
@@ -69,7 +66,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 3. We need to select the same **Resource Group and Region** and click **Create Storage Account**.
 4. In this tutorial we will name the Storage Account **storageaccount1** and select **(US)East US** for the region.
 5. At the middle of the screen we will select **Review + Create** and click **Create**.
-6. Our Storage Account is now successuccessfully created . 
+6. Our Storage Account is now successuccessfully fully created. 
 &nbsp;
 
 ![Azure RG](https://i.imgur.com/Eeygknm.png)
@@ -102,9 +99,9 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 ### Step 5: Connect to the Virtual Machine
 1. First we need to find the public IP Address of our virtual machine.
 2. Select the virtual machine we created and copy the public IP Address on the right side of the Virtual Machine of the screen.
-3. Open up Remote Desktop Connection or type **MSTSC** in our search bar . 
+3. Open up Remote Desktop Connection or type **MSTSC** in our search bar. 
 4. In Remote Desktop Connection we can then now paste in  our IP Address.
-5. Enter username and click connect. &nbsp;
+5. Enter username and connect. &nbsp;
 
 ![VM](https://i.imgur.com/3dlD3Ea.png)
 ![VM](https://i.imgur.com/FUMEMaf.png)
@@ -119,7 +116,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/pricing/purchas
 
 ---
 
-> For more details, visit the [Azure](add).
+>! For more details, visit the [Azure](add).
 
 ## FAQ
 **Q.What are Azure Virtual Machines (VMs)?** <br>
@@ -130,3 +127,4 @@ A: Azure is Microsoft's cloud computing platform that provides a range of servic
 -- -
 ## Conclusion
 You’ve successfully created a Vitrual  Machine in Azure.
+
